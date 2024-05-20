@@ -1,7 +1,7 @@
 ---
 # Add your data here:
-PV_EMAIL : ""               # e-mail address you used to register at M-TEC portal
-PV_PASSWORD : ""            # password you used to register at M-TEC portal
+PV_EMAIL : "ralf@koellerer.eu"               # e-mail address you used to register at M-TEC portal
+PV_PASSWORD : "James1"            # password you used to register at M-TEC portal
 
 # MQTT
 MQTT_SERVER : "localhost"   # MQTT server 
